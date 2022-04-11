@@ -5,7 +5,7 @@
  *	Bus Speed: 30 MHz
  *	Digital I/O LED Status: PN1
  *
- *	PL[0-3] : Servo Controller IN[0-3]
+ *	PL[0-3] : Servo Controller IN[1-4]
  *	PB[2-3]	:	I2C (SDA & SCL)
  *	PH0			:	Push Button Input Active High (Start/Stop)
  *	PH1			:	Push Button Input Active High	(Rotate Back)
