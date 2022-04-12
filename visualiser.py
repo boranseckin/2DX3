@@ -24,10 +24,6 @@ def main():
     pcd.points.append([i * 50 - 25, 450, -450])
     pcd.points.append([i * 50 - 25, 0, 0])
 
-  yz_slice_vertex = []
-  for x in range(0, RESOLUTION * SETS):
-      yz_slice_vertex.append([x])
-
   lines = []
 
   # Boundry boxes
